@@ -38,3 +38,7 @@ zip:
 	zip -D FinalProject_Zourelli_Fabian_Andres ${HEADERS} ${SRCS} ${OTHER}
 
 ```
+## Technologies Used
+
+- C++
+- Makefile
